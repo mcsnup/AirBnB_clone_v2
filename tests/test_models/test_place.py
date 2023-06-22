@@ -1,4 +1,4 @@
-!/usr/bin/python3
+#!/usr/bin/python3
 """test for place"""
 import unittest
 import os
